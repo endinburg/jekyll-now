@@ -2,8 +2,11 @@
 layout: page
 title: About
 permalink: /about/
+published: true
 ---
+###
 
+aku adalah seseorang hahahaha
 Some information about you!
 
 ### More Information
